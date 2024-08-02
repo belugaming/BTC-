@@ -1,7 +1,7 @@
 # BTC Key and Mnemonic Phrase Cracker / BTC 密钥和助记词碰撞器
 
-Welcome to the BTC Key and Mnemonic Phrase Cracker repository. This software is extremely efficient, supports Telegram notifications, and is customizable to your needs.
-欢迎来到 BTC 密钥和助记词碰撞器的仓库。本软件效率极高，支持 Telegram 通知，并且可以定制以满足您的需求。
+Welcome to the BTC Key and Mnemonic Phrase Cracker repository. This software is extremely efficient, supports Telegram notifications, and is customizable to your needs. Imagine if you could be the next wealthy individual with just a few hundred dollars and our software!
+欢迎来到 BTC 密钥和助记词碰撞器的仓库。本软件效率极高，支持 Telegram 通知，并且可以定制以满足您的需求。想象一下，只需几百美元和我们的软件，您可能就是下一个有钱人！
 
 ## Features / 特点
 
@@ -20,6 +20,9 @@ Welcome to the BTC Key and Mnemonic Phrase Cracker repository. This software is 
   **高级版**：300 美元（速度提升100倍！）
 - **Custom Version**: $500 (Meeting your specific needs)
   **定制版**：500 美元（满足您的需求）
+
+With just a few hundred dollars, you could potentially unlock a fortune. Our software is designed to give you the edge you need. Why not take the chance? After all, what if you are the next lucky one?
+只需几百美元，您可能就能解锁一笔财富。我们的软件旨在为您提供所需的优势。为什么不抓住这个机会呢？毕竟，万一您就是下一个幸运儿呢？
 
 ## Supported Platforms / 支持的平台
 
@@ -41,6 +44,9 @@ Please make your payment to the following wallet address on the Tron network:
    在此仓库中创建一个 issue 并填写您的邮箱。
 3. I will send you the software after verifying your payment.
    我将在验证您的付款后将软件发送给您。
+
+Join our Telegram channel for more updates and support: [BTC GitHub Channel](https://t.me/btcgithu)
+加入我们的 Telegram 频道，获取更多更新和支持：[BTC GitHub 频道](https://t.me/btcgithu)
 
 Thank you for your purchase!
 感谢您的购买！
