@@ -45,8 +45,8 @@ Please make your payment to the following wallet address on the Tron network:
 3. I will send you the software after verifying your payment.
    我将在验证您的付款后将软件发送给您。
 
-Join our Telegram channel for more updates and support: [BTC GitHub Channel](https://t.me/btcgithu)
-加入我们的 Telegram 频道，获取更多更新和支持：[BTC GitHub 频道](https://t.me/btcgithu)
+Join our Telegram channel for more updates and support: [BTC GitHub Channel](https://t.me/+lzn3jp_BeB5iZWM1)
+加入我们的 Telegram 频道，获取更多更新和支持：[BTC GitHub 频道](https://t.me/+lzn3jp_BeB5iZWM1）
 
 Thank you for your purchase!
 感谢您的购买！
