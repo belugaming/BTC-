@@ -14,8 +14,17 @@ Welcome to the BTC Key and Mnemonic Phrase Cracker repository. This software is 
 
 ## Pricing / 价格
 
-The software is priced at **100 USDT**.
-本软件售价为 **100 USDT**。
+- **Standard Version**: $100
+  **标准版**：100 美元
+- **Advanced Version**: $300 (100x speed increase!)
+  **高级版**：300 美元（速度提升100倍！）
+- **Custom Version**: $500 (Meeting your specific needs)
+  **定制版**：500 美元（满足您的需求）
+
+## Supported Platforms / 支持的平台
+
+- macOS
+- Windows
 
 ## Payment Information / 付款信息
 
